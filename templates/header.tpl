@@ -38,6 +38,7 @@
 		<div class="loading-bar"></div>
 		<div class="container">
 			<!-- IMPORT partials/menu.tpl -->
+			Hello is this working?!!
 		</div>
 	</div>
 	<div class="container" id="content" component="content">
