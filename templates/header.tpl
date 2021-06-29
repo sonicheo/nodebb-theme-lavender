@@ -34,7 +34,9 @@
 </head>
 
 <body class="{bodyClass}">
+	Hello is this working?!!
 	<div class="navbar navbar-default navbar-fixed-top header" role="navigation" id="header-menu" component="navbar">
+		Hello is this working?!!
 		<div class="loading-bar"></div>
 		<div class="container">
 			<!-- IMPORT partials/menu.tpl -->
