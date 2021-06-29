@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-lavender",
+  "name": "nodebb-theme-YHM",
   "version": "5.2.1",
-  "description": "Lavender Theme for NodeBB",
+  "description": "YHM theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
